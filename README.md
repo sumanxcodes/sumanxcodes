@@ -1,510 +1,113 @@
-<div align="center">
+# 👋 Hi, I’m Suman Raj Sharma
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Suman%20Raj%20Sharma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Big%20Data&descAlignY=55&descSize=20" />
-
-</div>
-
-<div align="center">
-
-### 🚀 Passionate about turning data into actionable insights
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+ML+Models+%F0%9F%A4%96;Securing+IoT+Systems+%F0%9F%94%92;Analyzing+Big+Data+%F0%9F%93%8A;Creating+Smart+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
-
-<br>
-
-[![Website](https://img.shields.io/badge/🌐_sumanrajsharma.dev-FF6B6B?style=for-the-badge&logoColor=white)](https://sumanrajsharma.dev/)
-[![Location](https://img.shields.io/badge/📍_Melbourne,_Australia-4ECDC4?style=for-the-badge)](https://www.google.com/maps/place/Carnegie+VIC+3163)
-[![Views](https://komarev.com/ghpvc/?username=sumanxcodes&color=F75C7E&style=for-the-badge&label=VIEWS)](https://github.com/sumanxcodes)
-
-</div>
-
-<br>
+**Cybersecurity | Data | Product-focused Engineer**  
+Building practical systems that blend security, analytics, and clean user experiences.
 
 ---
 
-<br>
+## 👨‍💻 Quick intro
 
-## 🎯 About Me
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👤 Profile
-
-<img src="https://img.shields.io/badge/Name-Suman%20Raj%20Sharma-F75C7E?style=flat-square&logo=target&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Role-Data%20Scientist-4ECDC4?style=flat-square&logo=databricks&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Education-Data%20Science%20Graduate-FF6B6B?style=flat-square&logo=google-scholar&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Location-Melbourne,%20Australia%20🇦🇺-FFE66D?style=flat-square&logo=google-maps&logoColor=black" />
+I’m a cybersecurity generalist and software engineer with a strong data background.  
+I work on fraud detection, AI-driven systems, and real-world products, not just demos.  
+Currently focused on security engineering, applied ML, and scalable product design.
 
 ---
 
-### 🎓 Core Expertise
+## 🧰 Tech stack
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/machine-learning.png" width="48"/><br>
-<b>Machine Learning</b>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/big-data.png" width="48"/><br>
-<b>Big Data</b>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/cyber-security.png" width="48"/><br>
-<b>Cybersecurity</b>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/python.png" width="48"/><br>
-<b>Python Dev</b>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/48/000000/internet-of-things.png" width="48"/><br>
-<b>IoT Systems</b>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/web.png" width="48"/><br>
-<b>Web Dev</b>
-</td>
-</tr>
-</table>
+**Languages**
+- Python
+- JavaScript / TypeScript
+- SQL
 
-</td>
-<td width="50%" valign="top">
+**Frameworks & Libraries**
+- React / Next.js
+- React Native
+- Streamlit
+- Node.js
 
-### 🚀 Character Stats
+**Data & ML**
+- Pandas, NumPy
+- scikit-learn
+- TF-IDF, cosine similarity
+- SVD, Softmax classifiers
 
-```
-╔══════════════════════════════════════╗
-║  DEVELOPER PROFILE                   ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  💪 Coding Power      ████████░░ 85% ║
-║  🧠 Problem Solving   █████████░ 92% ║
-║  🔒 Security Skills   ████████░░ 88% ║
-║  📊 Data Analysis     █████████░ 95% ║
-║  🤝 Collaboration     ████████░░ 90% ║
-║  🎯 Project Delivery  ████████░░ 87% ║
-║                                      ║
-╠══════════════════════════════════════╣
-║  🏆 Level: Senior Developer          ║
-║  ⭐ XP: 10,000+ Hours of Coding      ║
-║  🎮 Main Quest: AI for Good          ║
-╚══════════════════════════════════════╝
-```
+**Cloud & Backend**
+- AWS
+- Supabase
+- MongoDB
+- Firebase
 
-### 🌟 Currently Exploring
-
-- 🧠 **Deep Learning** & Neural Networks
-- ☁️ **Cloud Computing** & Distributed Systems  
-- 🔐 **Advanced Cryptography** & Zero Trust
-- 🤖 **AI Ethics** & Responsible AI
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💡 My Mission
-
-**"Building intelligent, secure systems that transform data into decisions and make the digital world safer for everyone"**
-
-</div>
-
-<br>
-
-**🔥 What Sets Me Apart:**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/light-on--v1.png" width="60"/><br>
-<b>Problem Solver</b><br>
-<sub>I love tackling complex challenges with creative solutions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/protect.png" width="60"/><br>
-<b>Security First</b><br>
-<sub>Building systems with security at the core</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/><br>
-<b>AI Enthusiast</b><br>
-<sub>Passionate about ML and intelligent systems</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/collaboration.png" width="60"/><br>
-<b>Team Player</b><br>
-<sub>Great things happen when we work together</sub>
-</td>
-</tr>
-</table>
-
-<br>
+**Security & DevOps**
+- OAuth2 / JWT
+- Docker
+- Kubernetes
+- GitHub Actions
+- Splunk
 
 ---
 
-<br>
+## 🚀 Featured projects
 
-## 🔧 Tech Stack & Skills
-
-<div align="center">
-
-### 💻 Languages & Core Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" alt="Languages" />
-</p>
-
-### 🤖 Data Science & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ML Frameworks" />
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/48px-Matplotlib_icon.svg.png" alt="Matplotlib" width="48" height="48"/>
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,postman" alt="Tools" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" alt="Web" />
-</p>
-
-### 📊 Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Databases" />
-</p>
-
-</div>
-
-<br>
+### 🔐 Cybersecurity Exercise Recommendation System (CERS)
+A hybrid AI recommendation system mapping security exercises to MITRE ATT&CK techniques using content-based filtering, collaborative filtering, and deep learning.
+- TF-IDF + cosine similarity
+- FunkSVD & Softmax model
+- Interactive Streamlit dashboard  
+🔗 https://github.com/sumanxcodes/COS70008-cybersec-recsys
 
 ---
 
-<br>
-
-## 🎨 Featured Work
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/security-shield-green.png" width="30"/> 
-  Cybersecurity RecSys
-</h3>
-
-<div align="center">
-  
-<a href="https://github.com/sumanxcodes/COS70008-cybersec-recsys">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sumanxcodes&repo=COS70008-cybersec-recsys&theme=radical&hide_border=true&bg_color=1F222E&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<p align="center">
-<b>Three-phase recommender system</b> for cybersecurity exercises using <b>MITRE ATT&CK</b> framework and hybrid ML models to personalize training.
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" width="40" />
-<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="40"/>
-<img src="https://skillicons.dev/icons?i=sklearn" width="40" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/wifi.png" width="30"/> 
-  LoRa Secure Link
-</h3>
-
-<div align="center">
-  
-<a href="https://github.com/sumanxcodes/LoRa-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sumanxcodes&repo=LoRa-Project&theme=radical&hide_border=true&bg_color=1F222E&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<p align="center">
-<b>Secure LoRa communication</b> between Arduino UNO R4 boards with <b>9-digit ID verification</b> and encryption for IoT security.
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,arduino" width="40" />
-<img src="https://img.icons8.com/color/48/000000/internet-of-things.png" width="40"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/questions.png" width="30"/> 
-  Quizora
-</h3>
-
-<div align="center">
-  
-<a href="https://github.com/sumanxcodes/quizora">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sumanxcodes&repo=quizora&theme=radical&hide_border=true&bg_color=1F222E&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<p align="center">
-<b>Interactive quiz application</b> with engaging gameplay mechanics built using <b>Python and Pygame</b> for educational entertainment.
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" width="40" />
-<img src="https://img.icons8.com/color/48/000000/pygame.png" width="40"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/web.png" width="30"/> 
-  Web Applications
-</h3>
-
-<div align="center">
-  
-<a href="https://github.com/sumanxcodes/webdesign">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sumanxcodes&repo=webdesign&theme=radical&hide_border=true&bg_color=1F222E&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<p align="center">
-<b>Modern web applications</b> with JSON-based architectures and <b>responsive design</b> principles for seamless user experiences.
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" width="40" />
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
+### 🐾 PawPlan – Pet Care & Activity Log App
+A cross-platform mobile app for tracking pet activities, health, reminders, and growth with a clean, accessible UI.
+- React Native + Supabase
+- Push notifications & scheduling
+- Designed for real users, not prototypes  
+🔗 https://github.com/sumanxcodes/PawPlan
 
 ---
 
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanxcodes&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=1F222E&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&ring_color=F75C7E" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanxcodes&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F75C7E&text_color=FFFFFF&langs_count=8" />
-
-</div>
-
-<div align="center">
-  
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanxcodes&theme=radical&hide_border=true&background=1F222E&stroke=F75C7E&ring=F75C7E&fire=FF6B6B&currStreakLabel=F75C7E&sideLabels=FFFFFF&dates=FFFFFF" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Suman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumanxcodes&theme=github-compact&hide_border=true&bg_color=1F222E&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&area_color=F75C7E)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br>
+### 🎨 ColorCraft
+A child-friendly digital colouring app built with performance and simplicity in mind.
+- Flutter-based drawing engine
+- AI-generated colouring books
+- Offline-first design  
+🔗 https://github.com/sumanxcodes/ColorCraft
 
 ---
 
-<br>
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumanxcodes&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,PullRequest,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
+### ⏱️ NDIS Time Tracker
+A production-ready time and shift tracking system for disability support workers.
+- Next.js + MongoDB
+- Cost breakdowns & GST logic
+- Designed for compliance and scalability  
+🔗 https://github.com/sumanxcodes
 
 ---
 
-<br>
+## 📊 GitHub stats
 
-## 💼 Currently Working On
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="64"/>
-<br><b>Machine Learning</b>
-<br>Building intelligent models
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="64"/>
-<br><b>Deep Learning</b>
-<br>Neural networks & AI
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/cyber-security.png" width="64"/>
-<br><b>Cybersecurity</b>
-<br>Threat modeling
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/connected.png" width="64"/>
-<br><b>IoT Solutions</b>
-<br>Edge computing
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/big-data.png" width="64"/>
-<br><b>Big Data</b>
-<br>Distributed computing
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanxcodes&show_icons=true&hide_title=true&count_private=true" height="150" />
+</p>
 
 ---
 
-<br>
+## 🌱 Current focus
 
-## 🌟 Skills Visualization
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/python--v1.png" width="80"/><br>
-<b>Python</b><br>
-⭐⭐⭐⭐⭐
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="80"/><br>
-<b>C++</b><br>
-⭐⭐⭐⭐☆
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/machine-learning.png" width="80"/><br>
-<b>Machine Learning</b><br>
-⭐⭐⭐⭐⭐
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/lock--v1.png" width="80"/><br>
-<b>Cybersecurity</b><br>
-⭐⭐⭐⭐☆
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/web.png" width="80"/><br>
-<b>Web Dev</b><br>
-⭐⭐⭐⭐☆
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/arduino.png" width="80"/><br>
-<b>IoT/Arduino</b><br>
-⭐⭐⭐⭐☆
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/sql.png" width="80"/><br>
-<b>SQL/Databases</b><br>
-⭐⭐⭐⭐☆
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/git.png" width="80"/><br>
-<b>Git/GitHub</b><br>
-⭐⭐⭐⭐⭐
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
+- Security engineering & fraud detection systems  
+- Applied machine learning for real-world use cases  
+- Building polished, user-ready products  
 
 ---
 
-<br>
+## 📫 Connect with me
 
-## 🌈 Connect With Me
+- 🌐 Portfolio: *coming soon*
+- 💼 LinkedIn: https://www.linkedin.com/in/sumanrajsharma
+- 📧 Email: sumanxsharma@gmail.com
+- 🧑‍💻 GitHub: https://github.com/sumanxcodes
 
-<div align="center">
+---
 
-<a href="https://sumanrajsharma.dev/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/sumanrajsharma/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:contact@sumanrajsharma.dev">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/sumanxcodes">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br><br>
-
-### 💭 *"In God we trust, all others must bring data."* — W. Edwards Deming
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🙏 Thanks for stopping by! Let's build something amazing together! ✨
-
-![Visitor Count](https://profile-counter.glitch.me/sumanxcodes/count.svg)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" />
+> *Build things that work. Secure them properly. Make them usable.*
