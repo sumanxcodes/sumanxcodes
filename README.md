@@ -1,77 +1,82 @@
-# 👋 Hi, I’m Suman Raj Sharma
+<div align="center">
 
-**Cybersecurity | Data | Product-focused Engineer**  
-Building practical systems that blend security, analytics, and clean user experiences.
+# 👋 Suman Raj Sharma
 
----
+### Cybersecurity • Data • Product Engineering
 
-## 👨‍💻 Quick intro
+Building secure, data-driven systems that solve real problems.
 
-I’m a cybersecurity generalist and software engineer with a strong data background.  
-I work on fraud detection, AI-driven systems, and real-world products, not just demos.  
-Currently focused on security engineering, applied ML, and scalable product design.
+</div>
 
 ---
 
-## 🧰 Tech stack
+## About me
 
-**Languages**
-- Python
-- JavaScript / TypeScript
-- SQL
+I’m a cybersecurity generalist and software engineer with a strong foundation in data and applied machine learning.  
+I focus on building systems that are practical, secure, and designed for real users rather than demos.
 
-**Frameworks & Libraries**
-- React / Next.js
-- React Native
-- Streamlit
-- Node.js
-
-**Data & ML**
-- Pandas, NumPy
-- scikit-learn
-- TF-IDF, cosine similarity
-- SVD, Softmax classifiers
-
-**Cloud & Backend**
-- AWS
-- Supabase
-- MongoDB
-- Firebase
-
-**Security & DevOps**
-- OAuth2 / JWT
-- Docker
-- Kubernetes
-- GitHub Actions
-- Splunk
+Currently working across **fraud detection, AI-powered systems, and scalable product development**.
 
 ---
 
-## 🚀 Featured projects
+## Tech stack
 
-### 🔐 Cybersecurity Exercise Recommendation System (CERS)
-A hybrid AI recommendation system mapping security exercises to MITRE ATT&CK techniques using content-based filtering, collaborative filtering, and deep learning.
-- TF-IDF + cosine similarity
-- FunkSVD & Softmax model
+### Languages
+![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-111?style=flat&logo=postgresql)
+
+### Frameworks & UI
+![React](https://img.shields.io/badge/React-111?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=flat&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-111?style=flat&logo=react)
+![Streamlit](https://img.shields.io/badge/Streamlit-111?style=flat&logo=streamlit)
+
+### Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-111?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111?style=flat&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111?style=flat&logo=scikitlearn)
+
+### Cloud, Backend & Security
+![AWS](https://img.shields.io/badge/AWS-111?style=flat&logo=amazonaws)
+![Supabase](https://img.shields.io/badge/Supabase-111?style=flat&logo=supabase)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-111?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=flat&logo=kubernetes)
+![Splunk](https://img.shields.io/badge/Splunk-111?style=flat&logo=splunk)
+
+---
+
+## Featured projects
+
+### 🔐 Cybersecurity Exercise Recommendation System
+An AI-driven recommendation system mapping security exercises to MITRE ATT&CK techniques using hybrid ML models.
+- Content-based filtering (TF-IDF + cosine similarity)
+- Collaborative filtering (FunkSVD)
+- Deep learning Softmax classifier
 - Interactive Streamlit dashboard  
+
 🔗 https://github.com/sumanxcodes/COS70008-cybersec-recsys
 
 ---
 
-### 🐾 PawPlan – Pet Care & Activity Log App
-A cross-platform mobile app for tracking pet activities, health, reminders, and growth with a clean, accessible UI.
+### 🐾 PawPlan — Pet Care & Activity Log
+A cross-platform mobile app for tracking pet activities, health logs, reminders, and growth.
 - React Native + Supabase
-- Push notifications & scheduling
-- Designed for real users, not prototypes  
+- Notification and scheduling engine
+- Clean, accessible UI built for real users  
+
 🔗 https://github.com/sumanxcodes/PawPlan
 
 ---
 
 ### 🎨 ColorCraft
-A child-friendly digital colouring app built with performance and simplicity in mind.
-- Flutter-based drawing engine
+A child-friendly digital colouring app focused on simplicity and performance.
+- Flutter drawing engine
 - AI-generated colouring books
 - Offline-first design  
+
 🔗 https://github.com/sumanxcodes/ColorCraft
 
 ---
@@ -79,35 +84,39 @@ A child-friendly digital colouring app built with performance and simplicity in 
 ### ⏱️ NDIS Time Tracker
 A production-ready time and shift tracking system for disability support workers.
 - Next.js + MongoDB
-- Cost breakdowns & GST logic
-- Designed for compliance and scalability  
+- Cost breakdowns, GST logic, compliance-aware design
+- Built with scalability in mind  
+
 🔗 https://github.com/sumanxcodes
 
 ---
 
-## 📊 GitHub stats
+## GitHub activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanxcodes&show_icons=true&hide_title=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanxcodes&show_icons=true&hide_title=true&hide_border=true&count_private=true" height="150" />
 </p>
 
 ---
 
-## 🌱 Current focus
+## Current focus
 
-- Security engineering & fraud detection systems  
-- Applied machine learning for real-world use cases  
-- Building polished, user-ready products  
-
----
-
-## 📫 Connect with me
-
-- 🌐 Portfolio: *coming soon*
-- 💼 LinkedIn: https://www.linkedin.com/in/sumanrajsharma
-- 📧 Email: sumanxsharma@gmail.com
-- 🧑‍💻 GitHub: https://github.com/sumanxcodes
+- Security engineering and fraud detection  
+- Applied machine learning in production systems  
+- Designing products that are reliable, secure, and usable  
 
 ---
 
-> *Build things that work. Secure them properly. Make them usable.*
+## Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sumanrajsharma  
+- 📧 Email: sumanxsharma@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/sumanxcodes  
+
+---
+
+<div align="center">
+
+*Build things that work. Secure them properly. Make them usable.*
+
+</div>
