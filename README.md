@@ -1,122 +1,115 @@
 <div align="center">
 
-# 👋 Suman Raj Sharma
+# Hi, I'm Suman Raj Sharma 👋
 
-### Cybersecurity • Data • Product Engineering
+### Data Science Graduate | ML Engineer | Security Enthusiast
 
-Building secure, data-driven systems that solve real problems.
+<p>
+  <a href="https://sumanrajsharma.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sumanrajsharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:contact@sumanrajsharma.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=sumanxcodes&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 ---
 
-## About me
+## 🚀 About Me
 
-I’m a cybersecurity generalist and software engineer with a strong foundation in data and applied machine learning.  
-I focus on building systems that are practical, secure, and designed for real users rather than demos.
+I'm a **Data Science graduate** from Melbourne with a passion for **Machine Learning**, **Big Data**, and **Cybersecurity**. I love building intelligent systems that solve real-world problems while keeping security at the forefront.
 
-Currently working across **fraud detection, AI-powered systems, and scalable product development**.
-
----
-
-## Tech stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-111?style=flat&logo=postgresql)
-
-### Frameworks & UI
-![React](https://img.shields.io/badge/React-111?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat&logo=nextdotjs)
-![React Native](https://img.shields.io/badge/React_Native-111?style=flat&logo=react)
-![Streamlit](https://img.shields.io/badge/Streamlit-111?style=flat&logo=streamlit)
-
-### Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-111?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-111?style=flat&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111?style=flat&logo=scikitlearn)
-
-### Cloud, Backend & Security
-![AWS](https://img.shields.io/badge/AWS-111?style=flat&logo=amazonaws)
-![Supabase](https://img.shields.io/badge/Supabase-111?style=flat&logo=supabase)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=flat&logo=kubernetes)
-![Splunk](https://img.shields.io/badge/Splunk-111?style=flat&logo=splunk)
+- 🎓 Specialized in **ML algorithms** and **Big Data analytics**
+- 🔐 Building **secure IoT systems** with encryption and authentication
+- 🤖 Creating **recommendation systems** using advanced ML techniques
+- 📍 Based in **Melbourne, Australia** 🇦🇺
 
 ---
 
-## Featured projects
+## 🛠️ Tech Stack
 
-### 🔐 Cybersecurity Exercise Recommendation System
-An AI-driven recommendation system mapping security exercises to MITRE ATT&CK techniques using hybrid ML models.
-- Content-based filtering (TF-IDF + cosine similarity)
-- Collaborative filtering (FunkSVD)
-- Deep learning Softmax classifier
-- Interactive Streamlit dashboard  
+<div align="center">
 
-🔗 https://github.com/sumanxcodes/COS70008-cybersec-recsys
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 🐾 PawPlan — Pet Care & Activity Log
-A cross-platform mobile app for tracking pet activities, health logs, reminders, and growth.
-- React Native + Supabase
-- Notification and scheduling engine
-- Clean, accessible UI built for real users  
-
-🔗 https://github.com/sumanxcodes/PawPlan
+</div>
 
 ---
 
-### 🎨 ColorCraft
-A child-friendly digital colouring app focused on simplicity and performance.
-- Flutter drawing engine
-- AI-generated colouring books
-- Offline-first design  
+## 🎯 Featured Projects
 
-🔗 https://github.com/sumanxcodes/ColorCraft
+### 🔐 [Cybersecurity Recommendation System](https://github.com/sumanxcodes/COS70008-cybersec-recsys)
+A three-phase recommendation system for cybersecurity training exercises using **MITRE ATT&CK** framework and hybrid ML models to personalize learning paths based on performance data.
 
----
-
-### ⏱️ NDIS Time Tracker
-A production-ready time and shift tracking system for disability support workers.
-- Next.js + MongoDB
-- Cost breakdowns, GST logic, compliance-aware design
-- Built with scalability in mind  
-
-🔗 https://github.com/sumanxcodes
+**Tech:** Python • Machine Learning • Jupyter • MITRE ATT&CK
 
 ---
 
-## GitHub activity
+### 📡 [LoRa Secure Communication](https://github.com/sumanxcodes/LoRa-Project)
+Secure wireless communication system between Arduino boards using **LoRa technology** with 9-digit ID verification and encryption for authenticated IoT messaging.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanxcodes&show_icons=true&hide_title=true&hide_border=true&count_private=true" height="150" />
-</p>
-
----
-
-## Current focus
-
-- Security engineering and fraud detection  
-- Applied machine learning in production systems  
-- Designing products that are reliable, secure, and usable  
+**Tech:** C++ • Arduino • LoRa • Cryptography • IoT Security
 
 ---
 
-## Connect
+### 🎮 [Quizora](https://github.com/sumanxcodes/quizora)
+Interactive quiz application with engaging gameplay mechanics built using Python and Pygame for educational entertainment.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sumanrajsharma  
-- 📧 Email: sumanxsharma@gmail.com  
-- 🧑‍💻 GitHub: https://github.com/sumanxcodes  
+**Tech:** Python • Pygame • Game Development
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanxcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanxcodes&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanxcodes&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 Deep Learning & Neural Networks
+- ☁️ Cloud Computing & MLOps
+- 🔒 Advanced Cryptography
+- 📊 Distributed Data Processing
+
+---
+
+## 💬 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing ideas around **Machine Learning**, **Cybersecurity**, and **IoT**. Feel free to reach out!
+
+<div align="center">
+
+**💡 "In God we trust, all others must bring data."**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF6B6B?style=for-the-badge)](https://sumanrajsharma.dev/)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Build things that work. Secure them properly. Make them usable.*
+*Thanks for visiting! ⭐ Star some repos if you find them interesting!*
 
 </div>
