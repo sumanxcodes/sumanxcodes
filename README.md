@@ -26,39 +26,132 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-```javascript
-const suman = {
-    pronouns: "he" | "him",
-    location: "Melbourne, VIC 🇦🇺",
-    education: "Data Science Graduate 🎓",
-    
-    expertise: {
-        dataScience: ["Machine Learning", "Big Data", "Predictive Analytics"],
-        security: ["Cybersecurity", "Cryptography", "MITRE ATT&CK"],
-        development: ["Python", "C++", "Web Development"],
-        hardware: ["IoT", "Arduino", "LoRa Communication"]
-    },
-    
-    currentlyLearning: ["Deep Learning", "Neural Networks", "Cloud Computing"],
-    
-    askMeAbout: [
-        "Data Science", "Machine Learning", "Python", 
-        "IoT Security", "Recommendation Systems"
-    ],
-    
-    funFact: "I love building systems that make the digital world safer! 🛡️"
-};
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👤 Profile
+
+<img src="https://img.shields.io/badge/Name-Suman%20Raj%20Sharma-F75C7E?style=flat-square&logo=target&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Role-Data%20Scientist-4ECDC4?style=flat-square&logo=databricks&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Education-Data%20Science%20Graduate-FF6B6B?style=flat-square&logo=google-scholar&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Location-Melbourne,%20Australia%20🇦🇺-FFE66D?style=flat-square&logo=google-maps&logoColor=black" />
+
+---
+
+### 🎓 Core Expertise
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/machine-learning.png" width="48"/><br>
+<b>Machine Learning</b>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/big-data.png" width="48"/><br>
+<b>Big Data</b>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/cyber-security.png" width="48"/><br>
+<b>Cybersecurity</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/python.png" width="48"/><br>
+<b>Python Dev</b>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/internet-of-things.png" width="48"/><br>
+<b>IoT Systems</b>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/web.png" width="48"/><br>
+<b>Web Dev</b>
+</td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Character Stats
+
 ```
+╔══════════════════════════════════════╗
+║  DEVELOPER PROFILE                   ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  💪 Coding Power      ████████░░ 85% ║
+║  🧠 Problem Solving   █████████░ 92% ║
+║  🔒 Security Skills   ████████░░ 88% ║
+║  📊 Data Analysis     █████████░ 95% ║
+║  🤝 Collaboration     ████████░░ 90% ║
+║  🎯 Project Delivery  ████████░░ 87% ║
+║                                      ║
+╠══════════════════════════════════════╣
+║  🏆 Level: Senior Developer          ║
+║  ⭐ XP: 10,000+ Hours of Coding      ║
+║  🎮 Main Quest: AI for Good          ║
+╚══════════════════════════════════════╝
+```
+
+### 🌟 Currently Exploring
+
+- 🧠 **Deep Learning** & Neural Networks
+- ☁️ **Cloud Computing** & Distributed Systems  
+- 🔐 **Advanced Cryptography** & Zero Trust
+- 🤖 **AI Ethics** & Responsible AI
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
-**🔥 What Drives Me:**
-- 🎯 Creating **intelligent systems** that solve complex problems
-- 🌐 Building **secure** and **scalable** solutions
-- 📊 Transforming **raw data** into **meaningful insights**
-- 🤝 Collaborating on **innovative projects** that make an impact
+<div align="center">
+
+### 💡 My Mission
+
+**"Building intelligent, secure systems that transform data into decisions and make the digital world safer for everyone"**
+
+</div>
+
+<br>
+
+**🔥 What Sets Me Apart:**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/light-on--v1.png" width="60"/><br>
+<b>Problem Solver</b><br>
+<sub>I love tackling complex challenges with creative solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/protect.png" width="60"/><br>
+<b>Security First</b><br>
+<sub>Building systems with security at the core</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/><br>
+<b>AI Enthusiast</b><br>
+<sub>Passionate about ML and intelligent systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/collaboration.png" width="60"/><br>
+<b>Team Player</b><br>
+<sub>Great things happen when we work together</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
