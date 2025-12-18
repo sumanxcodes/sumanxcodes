@@ -66,36 +66,42 @@ const suman = {
 
 <br>
 
-## 🔧 Technology Arsenal
+## 🔧 Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Languages & Core Technologies
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" alt="Languages" />
+</p>
 
-### 🤖 Data Science & ML
+### 🤖 Data Science & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ML Frameworks" />
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/48px-Matplotlib_icon.svg.png" alt="Matplotlib" width="48" height="48"/>
+</p>
 
 ### 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,postman" alt="Tools" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" alt="Web" />
+</p>
+
+### 📊 Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Databases" />
+</p>
 
 </div>
 
@@ -113,7 +119,10 @@ const suman = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🔐 Cybersecurity RecSys</h3>
+<h3 align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/security-shield-green.png" width="30"/> 
+  Cybersecurity RecSys
+</h3>
 
 <div align="center">
   
@@ -128,16 +137,19 @@ const suman = {
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python" width="40" />
+<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="40"/>
+<img src="https://skillicons.dev/icons?i=sklearn" width="40" />
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">📡 LoRa Secure Link</h3>
+<h3 align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/wifi.png" width="30"/> 
+  LoRa Secure Link
+</h3>
 
 <div align="center">
   
@@ -152,9 +164,8 @@ const suman = {
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cpp,arduino" width="40" />
+<img src="https://img.icons8.com/color/48/000000/internet-of-things.png" width="40"/>
 </p>
 
 </td>
@@ -163,7 +174,10 @@ const suman = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎮 Quizora</h3>
+<h3 align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/questions.png" width="30"/> 
+  Quizora
+</h3>
 
 <div align="center">
   
@@ -178,15 +192,18 @@ const suman = {
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pygame-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python" width="40" />
+<img src="https://img.icons8.com/color/48/000000/pygame.png" width="40"/>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Web Applications</h3>
+<h3 align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/web.png" width="30"/> 
+  Web Applications
+</h3>
 
 <div align="center">
   
@@ -201,9 +218,7 @@ const suman = {
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=html,css,js" width="40" />
 </p>
 
 </td>
@@ -265,13 +280,94 @@ const suman = {
 
 <div align="center">
 
-| 🎯 Focus Area | 🚀 Description |
-|--------------|----------------|
-| **🤖 Machine Learning** | Building intelligent models for real-world applications |
-| **🧠 Deep Learning** | Exploring neural networks and advanced architectures |
-| **🔒 Cybersecurity** | Developing secure systems and threat modeling |
-| **📡 IoT Solutions** | Creating edge computing solutions for smart devices |
-| **📊 Big Data** | Analyzing large-scale datasets with distributed computing |
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="64"/>
+<br><b>Machine Learning</b>
+<br>Building intelligent models
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="64"/>
+<br><b>Deep Learning</b>
+<br>Neural networks & AI
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/cyber-security.png" width="64"/>
+<br><b>Cybersecurity</b>
+<br>Threat modeling
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/connected.png" width="64"/>
+<br><b>IoT Solutions</b>
+<br>Edge computing
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/big-data.png" width="64"/>
+<br><b>Big Data</b>
+<br>Distributed computing
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🌟 Skills Visualization
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/python--v1.png" width="80"/><br>
+<b>Python</b><br>
+⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="80"/><br>
+<b>C++</b><br>
+⭐⭐⭐⭐☆
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/machine-learning.png" width="80"/><br>
+<b>Machine Learning</b><br>
+⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/lock--v1.png" width="80"/><br>
+<b>Cybersecurity</b><br>
+⭐⭐⭐⭐☆
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/web.png" width="80"/><br>
+<b>Web Dev</b><br>
+⭐⭐⭐⭐☆
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/arduino.png" width="80"/><br>
+<b>IoT/Arduino</b><br>
+⭐⭐⭐⭐☆
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/sql.png" width="80"/><br>
+<b>SQL/Databases</b><br>
+⭐⭐⭐⭐☆
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/git.png" width="80"/><br>
+<b>Git/GitHub</b><br>
+⭐⭐⭐⭐⭐
+</td>
+</tr>
+</table>
 
 </div>
 
